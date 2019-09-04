@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ingiangoo.quintin.ninja/sitemap.xml
